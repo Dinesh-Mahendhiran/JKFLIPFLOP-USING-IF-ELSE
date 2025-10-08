@@ -42,7 +42,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+<img width="1074" height="607" alt="{84869660-4CA9-40D5-BDAF-9EE262AC056C}" src="https://github.com/user-attachments/assets/652e3535-cd12-48c7-88b8-ada29eed21b1" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1056" height="581" alt="{A5BA7B8C-D52E-460D-8063-B14E3370B887}" src="https://github.com/user-attachments/assets/a9989a7b-9fb4-4b17-8fa3-f59902d7372b" />
 
 **RESULTS**
+Thus the JK FLIP FLOP is verified and proved
